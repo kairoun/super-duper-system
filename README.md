@@ -38,14 +38,8 @@
 
 - Если программа установлена правильно, после запуска программы откроется диалоговое окно выбора файла. В нём необходимо пройти по пути к требуемому файлу, выбрать его и нажать "ОК":
 
-![Пример работы с программой](https://github.com/[username]/[reponame]/blob/[branch]/images/image.jpg?raw=true)
+![Пример работы с программой](https://github.com/kairoun/super-duper-system/blob/main/images/image.jpg?raw=true)
 
 - Если файл был выбран корректно, в консольное окно выведится подробная информация о файле, например:
 
-> Количество потоков: 2
-> Тип аудиокодека: aac
-> Тип видео кодека: h264
-> Продолжительность видео: 0:1:50
-> Количество кадров: 59.9401
-
-![Результат вывода](https://github.com/[username]/[reponame]/blob/[branch]/images/image2.jpg?raw=true)
+![Результат вывода](https://github.com/kairoun/super-duper-system/blob/main/images/image.jpg?raw=true)
