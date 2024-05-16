@@ -43,4 +43,4 @@
 
 - Если файл был выбран корректно, в консольное окно выведится подробная информация о файле, например:
 
-![Результат вывода](https://github.com/kairoun/super-duper-system/blob/main/images/image.jpg?raw=true)
+![Результат вывода](https://github.com/kairoun/super-duper-system/blob/main/images/image2.jpg?raw=true)
